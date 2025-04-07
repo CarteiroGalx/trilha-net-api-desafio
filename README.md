@@ -56,3 +56,8 @@ Esse é o schema (model) de Tarefa, utilizado para passar para os métodos que e
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+# ⭐Pós-conclusão: meus comentários
+Eu honestamente, quando vi o tamanho do arquivo **TarefaController.cs**, eu pensei "caramba, isso vai levar o dia todo!", mas conforme ia fazendo a atividade eu percebi que foi extremamente fácil, mais do que eu imaginava.
+
+Queria agradecer ao professor por isso, já que agora me sinto preparado para fazer projetos web muito mais elaborados que possam funcionar sem que precise de um banco de dados simulado.
